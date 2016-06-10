@@ -28,3 +28,7 @@ h1{
 	justify-content: center;
 	color: black;
 }
+
+.selected{
+	background-color: blue;
+}
